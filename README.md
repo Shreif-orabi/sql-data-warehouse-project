@@ -5,7 +5,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-##🚀 Project Requirements
+## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -31,10 +31,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-##🛡️ License
+## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-##🌟 About Me
+## 🌟 About Me
 Hi, I'm **Sherif Orabi**, a Junior Data Analyst focused on Data Warehousing, SQL development, and Business Intelligence.
 I enjoy designing structured data models, building ETL workflows, and creating dashboards that transform complex data into clear business insights.
 
